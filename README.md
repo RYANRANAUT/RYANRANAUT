@@ -20,6 +20,8 @@ About Me:
 ### Languages:
 
 <img height="40" width="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />  <img height="40" width="40" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="40" width="40" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="40" width="40" src="https://img.icons8.com/color/48/000000/bootstrap.png" />  <img height="40" width="40" src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="40" width="40" src="https://img.icons8.com/color/48/000000/react-native.png"/> <img height="40" width="40" src="https://img.icons8.com/ios/48/000000/jquery.png"/>
+<br />
+<br />
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RYANRANAUT&show_icons=true&locale=en&layout=compact" alt="ryanranaut" />
 <br />
@@ -27,6 +29,9 @@ About Me:
 ### IDE and Tools:
 <img height="40" width="40" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png"/> <img height="40" width="40" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="40" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 <br />
+<br /><br />
+<br />
+
 
 [![Ryan's github stats](https://github-readme-stats.vercel.app/api?username=RYANRANAUT&hide=issues,contribs&theme=dark)](https://github.com/RYANRANAUT/github-readme-stats)
 
