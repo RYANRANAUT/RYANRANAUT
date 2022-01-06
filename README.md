@@ -8,7 +8,7 @@ About Me:
 
 - 🔭 Aspiring Web Developer
 - ✔ Passionate about Competitive Programming
-- 🥅 2021 Goals : Enhance coding skills
+- 🥅 2022 Goals : Enhance coding skills
 
 ### Connect with me:
 
