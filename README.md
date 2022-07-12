@@ -1,6 +1,6 @@
 ### Hello 👋, I'm Ryan Ranaut
 
-## A 3rd year Computer Science Student at Chandigarh University
+## A 4th year Computer Science Student at Chandigarh University
 <hr />
 <a href="https://github.com/"><img align='right' src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif" width="500" height="320"> </a>
 
