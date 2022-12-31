@@ -19,7 +19,7 @@ About Me:
 
 ### Languages:
 
-<img height="40" width="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />  <img height="40" width="40" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="40" width="40" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="40" width="40" src="https://img.icons8.com/color/48/000000/bootstrap.png" />  <img height="40" width="40" src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="40" width="40" src="https://img.icons8.com/color/48/000000/react-native.png"/> <img height="40" width="40" src="https://img.icons8.com/ios/48/000000/jquery.png"/><img height="40" width="40" src="https://icons8.com/icon/90519/spring-boot.png"/>
+<img height="40" width="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />  <img height="40" width="40" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="40" width="40" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="40" width="40" src="https://img.icons8.com/color/48/000000/bootstrap.png" />  <img height="40" width="40" src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="40" width="40" src="https://img.icons8.com/color/48/000000/react-native.png"/> <img height="40" width="40" src="https://img.icons8.com/ios/48/000000/jquery.png"/><img height="40" width="40" src="https://img.icons8.com/offices/30/null/spring-logo.png"/>
 <br />
 <br />
 
