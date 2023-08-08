@@ -8,7 +8,7 @@ About Me:
 
 - 🔭 Experience - Former SDE Intern - Amazon
 - ✔ Passionate about Competitive Programming
-- 🥅 2023 Goals: Enhance coding skills, design principles, acquire proficiency in Java, Apache Kafka and Spark
+- 🥅 2023 Goals: Enhance coding skills, learn design principles, acquire proficiency in Java, Apache Kafka, and Spark
 
 ### Connect with me:
 
