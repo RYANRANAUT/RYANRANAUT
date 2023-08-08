@@ -1,14 +1,14 @@
 ### Hello 👋, I'm Ryan Ranaut
 
-## A final year Computer Science Student at Chandigarh University
+## A Computer Science Graduate from Chandigarh University
 <hr />
 <a href="https://github.com/"><img align='right' src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif" width="500" height="320"> </a>
 
 About Me:
 
-- 🔭 Aspiring Web Developer
+- 🔭 Experience - Former SDE Intern - Amazon
 - ✔ Passionate about Competitive Programming
-- 🥅 2023 Goals : Enhance coding skills
+- 🥅 2023 Goals: Enhance coding skills, design principles, acquire proficiency in Java, Apache Kafka and Spark
 
 ### Connect with me:
 
@@ -19,7 +19,9 @@ About Me:
 
 ### Languages:
 
-<img height="40" width="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />  <img height="40" width="40" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="40" width="40" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="40" width="40" src="https://img.icons8.com/color/48/000000/bootstrap.png" />  <img height="40" width="40" src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="40" width="40" src="https://img.icons8.com/color/48/000000/react-native.png"/> <img height="40" width="40" src="https://img.icons8.com/ios/48/000000/jquery.png"/><img height="40" width="40" src="https://img.icons8.com/offices/30/null/spring-logo.png"/>
+<img height="40" width="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="40" widht="40" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" /> <img height="40" width="40" src="https://img.icons8.com/color/48/000000/sql.png" />
+<img height="40" width="40" src="https://img.icons8.com/color/48/000000/html-5.png" />
+<img height="40" width="40" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="40" width="40" src="https://img.icons8.com/color/48/000000/bootstrap.png" />  <img height="40" width="40" src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="40" width="40" src="https://img.icons8.com/color/48/000000/react-native.png"/> <img height="40" width="40" src="https://img.icons8.com/ios/48/000000/jquery.png"/><img height="40" width="40" src="https://img.icons8.com/offices/30/null/spring-logo.png"/>
 <br />
 <br />
 
@@ -31,9 +33,6 @@ About Me:
 <br />
 <br /><br />
 <br />
-
-
-[![Ryan's github stats](https://github-readme-stats.vercel.app/api?username=RYANRANAUT&hide=issues,contribs&theme=dark)](https://github.com/RYANRANAUT/github-readme-stats)
 
 
 - ⚡ Don't forget to check out my latest projects:
