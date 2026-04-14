@@ -6,9 +6,9 @@
 
 About Me:
 
-- 🔭 Experience - Former SDE Intern - Amazon
+- 🔭 Experience - SDE - Amazon
 - ✔ Passionate about Competitive Programming
-- 🥅 2024 Goals: Enhance coding skills, learn design principles, acquire proficiency in Django
+- 🥅 2026 Goals: Enhance coding skills, learn design principles, acquire proficiency in Django
 
 ### Connect with me:
 
